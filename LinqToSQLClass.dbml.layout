@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ordesignerObjectsDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 11, 8.5" name="LinqToSQLClass">
+  <DataContextMoniker Name="/LinqToSQLClassDataContext" />
+  <nestedChildShapes>
+    <classShape Id="82cc8c9e-0e13-4eab-af19-1ea9f59defa6" absoluteBounds="2.25, 1.875, 2, 1.1939925130208333">
+      <DataClassMoniker Name="/LinqToSQLClassDataContext/Group" />
+      <nestedChildShapes>
+        <elementListCompartment Id="885794a6-0bb4-4368-81ba-6b151cf07974" absoluteBounds="2.265, 2.335, 1.9700000000000002, 0.63399251302083326" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="c6dcc014-d0c9-4c17-b41a-ca427e48fdb1" absoluteBounds="4.875, 4.25, 2, 1.3862939453125">
+      <DataClassMoniker Name="/LinqToSQLClassDataContext/GroupUser" />
+      <nestedChildShapes>
+        <elementListCompartment Id="fa77027e-275a-4a7a-b8b8-c02136425668" absoluteBounds="4.89, 4.71, 1.9700000000000002, 0.8262939453125" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <associationConnector edgePoints="[(4.25 : 2.47199625651042); (5.875 : 2.47199625651042); (5.875 : 4.25)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/LinqToSQLClassDataContext/Group/Group_GroupUser" />
+      <nodes>
+        <classShapeMoniker Id="82cc8c9e-0e13-4eab-af19-1ea9f59defa6" />
+        <classShapeMoniker Id="c6dcc014-d0c9-4c17-b41a-ca427e48fdb1" />
+      </nodes>
+    </associationConnector>
+    <classShape Id="d39fa9e6-d887-48d6-91d3-a0e42d3ddb10" absoluteBounds="1.75, 4.875, 2, 2.5401025390625">
+      <DataClassMoniker Name="/LinqToSQLClassDataContext/User" />
+      <nestedChildShapes>
+        <elementListCompartment Id="40021436-c6be-4b75-8f91-0e548ce4480a" absoluteBounds="1.7650000000000001, 5.335, 1.9700000000000002, 1.9801025390625" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <associationConnector edgePoints="[(3.75 : 5.25564697265625); (4.875 : 5.25564697265625)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/LinqToSQLClassDataContext/User/User_GroupUser" />
+      <nodes>
+        <classShapeMoniker Id="d39fa9e6-d887-48d6-91d3-a0e42d3ddb10" />
+        <classShapeMoniker Id="c6dcc014-d0c9-4c17-b41a-ca427e48fdb1" />
+      </nodes>
+    </associationConnector>
+  </nestedChildShapes>
+</ordesignerObjectsDiagram>

@@ -1,0 +1,30 @@
+[
+  {
+    "LName": "Schachter",
+    "FName": "Samuel",
+    "email": "samuelschachter@hamaspikkings.org",
+    "Add1": "123 Main Street",
+    "City": "Brooklyn",
+    "State": "NY",
+    "Zip": "11210"
+  },
+  {
+    "LName": "Sholom",
+    "FName": "Serebryanski",
+    "NickName": "Sholom",
+    "email": "Sholomsero123@gmail.com",
+    "Add1": "4102 14th Avenue",
+    "City": "Brooklyn",
+    "State": "NY",
+    "Zip": "11219"
+  },
+  {
+    "LName": "Doe",
+    "FName": "John",
+    "email": "Jdoe666@hamaspikkings.org",
+    "Add1": "1365 East 14th Street",
+    "City": "Brooklyn",
+    "State": "NY",
+    "Zip": "11230"
+  }
+]

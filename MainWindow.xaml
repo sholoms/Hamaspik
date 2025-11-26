@@ -17,10 +17,10 @@
 
         
         <StackPanel DockPanel.Dock="Right" Grid.Column="2" Width="100" Margin="10,0,0,0">
-            <Button Name="btnAddGroupr" Click="btnAddGroup_Click">Add Group</Button>
+            <Button Name="btnAddGroupr" Click="btnAddGroup_Click" Margin="0,5">Add Group</Button>
             <Button Name="btnChangeUser" Click="btnEditGroup_Click" Margin="0,5">Edit Group</Button>
             <Button Name="btnDeletGroup" Click="btnDeleteGroup_Click" Margin="0,5">Delete group</Button>
-            <Button Name="btnAddUser" Click="btnAddUser_Click">Add User</Button>
+            <Button Name="btnAddUser" Click="btnAddUser_Click" Margin="0,5">Add User</Button>
         </StackPanel>
         <ListBox Name="lbUsers" Grid.Column="0">
             <ListBox.ItemTemplate>

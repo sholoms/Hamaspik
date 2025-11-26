@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\sholo\\source\\repos\\WPF\\Hamaspik\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{865DB3CB-F734-471F-8370-D5ABFD963DC3}|Hamaspik.csproj|C:\\Users\\sholo\\source\\repos\\WPF\\Hamaspik\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{865DB3CB-F734-471F-8370-D5ABFD963DC3}|Hamaspik.csproj|solutionrelative:app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{865DB3CB-F734-471F-8370-D5ABFD963DC3}|Hamaspik.csproj|c:\\users\\sholo\\source\\repos\\wpf\\hamaspik\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{865DB3CB-F734-471F-8370-D5ABFD963DC3}|Hamaspik.csproj|solutionrelative:mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -13,10 +17,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{865DB3CB-F734-471F-8370-D5ABFD963DC3}|Hamaspik.csproj|c:\\users\\sholo\\source\\repos\\wpf\\hamaspik\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
       "RelativeMoniker": "D:0:0:{865DB3CB-F734-471F-8370-D5ABFD963DC3}|Hamaspik.csproj|solutionrelative:app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{865DB3CB-F734-471F-8370-D5ABFD963DC3}|Hamaspik.csproj|C:\\Users\\sholo\\source\\repos\\WPF\\Hamaspik\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{865DB3CB-F734-471F-8370-D5ABFD963DC3}|Hamaspik.csproj|solutionrelative:app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{865DB3CB-F734-471F-8370-D5ABFD963DC3}|Hamaspik.csproj|C:\\Users\\sholo\\source\\repos\\WPF\\Hamaspik\\people.json||{3B902123-F8A7-4915-9F01-361F908088D0}",
@@ -58,11 +58,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "App.xaml.cs",
               "DocumentMoniker": "C:\\Users\\sholo\\source\\repos\\WPF\\Hamaspik\\App.xaml.cs",
               "RelativeDocumentMoniker": "App.xaml.cs",
@@ -76,7 +76,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "LinqToSQLClass.dbml",
               "DocumentMoniker": "C:\\Users\\sholo\\source\\repos\\WPF\\Hamaspik\\LinqToSQLClass.dbml",
               "RelativeDocumentMoniker": "LinqToSQLClass.dbml",
@@ -114,20 +114,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "MainWindow.xaml.cs",
               "DocumentMoniker": "C:\\Users\\sholo\\source\\repos\\WPF\\Hamaspik\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "MainWindow.xaml.cs",
               "ToolTip": "C:\\Users\\sholo\\source\\repos\\WPF\\Hamaspik\\MainWindow.xaml.cs",
               "RelativeToolTip": "MainWindow.xaml.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABUAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-26T00:04:35.112Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "App.config",
               "DocumentMoniker": "C:\\Users\\sholo\\source\\repos\\WPF\\Hamaspik\\App.config",
               "RelativeDocumentMoniker": "App.config",

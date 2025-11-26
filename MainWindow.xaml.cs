@@ -90,6 +90,8 @@ namespace Hamaspik
         {
             if (lbGroups.SelectedItem != null)
             {
+                db.GroupUsers.DeleteAllOnSubmit(db.GroupUsers.Where(gu => gu.GroupId == ((Group)lbGroups.SelectedItem).GroupId));
+
                 db.Groups.DeleteOnSubmit((Group)lbGroups.SelectedItem);
 
                 db.SubmitChanges();

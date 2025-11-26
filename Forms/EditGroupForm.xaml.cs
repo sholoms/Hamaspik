@@ -23,18 +23,19 @@ namespace Hamaspik.Forms
     {
         List<GroupUser> groupUsers;
         ObservableCollection<User> users;
-        int groupID;
+        Group group;
         LinqToSQLClassDataContext dbContext;
 
         public EditGroupForm(int ID, LinqToSQLClassDataContext db)
-        { 
+        {
             InitializeComponent();
             dbContext = db;
-            groupID = ID;
+            group = db.Groups.FirstOrDefault(g => g.GroupId == ID);
             var gu = dbContext.GroupUsers.ToList<GroupUser>();
             groupUsers = gu.Where(g => g.GroupId == ID).ToList();
 
             users = Application.Current.FindResource("users") as ObservableCollection<User>;
+            txtName.Text = group.Name;
             LoadUsers();
         }
 
@@ -65,7 +66,7 @@ namespace Hamaspik.Forms
             {
                 dbContext.GroupUsers.InsertOnSubmit(new GroupUser
                 {
-                    GroupId = groupID,
+                    GroupId = group.GroupId,
                     UserId = userId
                 });
             }
@@ -75,7 +76,7 @@ namespace Hamaspik.Forms
             var cb = sender as CheckBox;
             if (cb?.Tag is int userId)
             {
-                var groupUser = groupUsers.FirstOrDefault(gu => gu.UserId == userId && gu.GroupId == groupID);
+                var groupUser = groupUsers.FirstOrDefault(gu => gu.UserId == userId && gu.GroupId == group.GroupId);
                 if (groupUser != null)
                 {
                     dbContext.GroupUsers.DeleteOnSubmit(groupUser);
@@ -92,13 +93,14 @@ namespace Hamaspik.Forms
 
         private void btnDialogSave_Click(object sender, RoutedEventArgs e)
         {
+            group.Name = txtName.Text;
             dbContext.SubmitChanges();
             DialogResult = true;
-
         }
 
         private void btnDialogCancel_Click(object sender, RoutedEventArgs e)
         {
+            dbContext.Refresh(System.Data.Linq.RefreshMode.OverwriteCurrentValues, group);
             var changes = dbContext.GetChangeSet();
             changes.Inserts.ToList().ForEach(i => dbContext.GetTable<GroupUser>().DeleteOnSubmit((GroupUser)i));
             changes.Deletes.ToList().ForEach(d => dbContext.GetTable<GroupUser>().InsertOnSubmit((GroupUser)d));

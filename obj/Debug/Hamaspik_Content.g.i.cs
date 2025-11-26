@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-[assembly: System.Windows.Resources.AssemblyAssociatedContentFileAttribute("hamaspik.mdf")]
-[assembly: System.Windows.Resources.AssemblyAssociatedContentFileAttribute("hamaspik_log.ldf")]
+[assembly: System.Windows.Resources.AssemblyAssociatedContentFileAttribute("hamaspikdb.mdf")]
+[assembly: System.Windows.Resources.AssemblyAssociatedContentFileAttribute("hamaspikdb_log.ldf")]
 
 

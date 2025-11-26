@@ -26,7 +26,7 @@ namespace Hamaspik
         ObservableCollection<Group> groups;
         ObservableCollection<User> users;
 
-        LinqToSQLClassDataContext db = new LinqToSQLClassDataContext(Properties.Settings.Default.HamaspikDBConnectionString);
+        LinqToSQLClassDataContext db = new LinqToSQLClassDataContext(Properties.Settings.Default.HamaspikDBConnectionStringMDF);
 
         public MainWindow()
         {

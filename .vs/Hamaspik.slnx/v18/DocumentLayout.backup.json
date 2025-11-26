@@ -3,16 +3,36 @@
   "WorkspaceRootPath": "C:\\Users\\sholo\\source\\repos\\WPF\\Hamaspik\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{865DB3CB-F734-471F-8370-D5ABFD963DC3}|Hamaspik.csproj|c:\\users\\sholo\\source\\repos\\wpf\\hamaspik\\forms\\addgroupform.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{865DB3CB-F734-471F-8370-D5ABFD963DC3}|Hamaspik.csproj|solutionrelative:forms\\addgroupform.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{865DB3CB-F734-471F-8370-D5ABFD963DC3}|Hamaspik.csproj|c:\\users\\sholo\\source\\repos\\wpf\\hamaspik\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{865DB3CB-F734-471F-8370-D5ABFD963DC3}|Hamaspik.csproj|solutionrelative:mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{865DB3CB-F734-471F-8370-D5ABFD963DC3}|Hamaspik.csproj|c:\\users\\sholo\\source\\repos\\wpf\\hamaspik\\linqtosqlclass.dbml||{B465B5AD-8799-4507-B90A-EE29ACF36AF9}|",
+      "RelativeMoniker": "D:0:0:{865DB3CB-F734-471F-8370-D5ABFD963DC3}|Hamaspik.csproj|solutionrelative:linqtosqlclass.dbml||{B465B5AD-8799-4507-B90A-EE29ACF36AF9}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{865DB3CB-F734-471F-8370-D5ABFD963DC3}|Hamaspik.csproj|c:\\users\\sholo\\source\\repos\\wpf\\hamaspik\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{865DB3CB-F734-471F-8370-D5ABFD963DC3}|Hamaspik.csproj|solutionrelative:app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{865DB3CB-F734-471F-8370-D5ABFD963DC3}|Hamaspik.csproj|C:\\Users\\sholo\\source\\repos\\WPF\\Hamaspik\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{865DB3CB-F734-471F-8370-D5ABFD963DC3}|Hamaspik.csproj|solutionrelative:app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{865DB3CB-F734-471F-8370-D5ABFD963DC3}|Hamaspik.csproj|C:\\Users\\sholo\\source\\repos\\WPF\\Hamaspik\\people.json||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{865DB3CB-F734-471F-8370-D5ABFD963DC3}|Hamaspik.csproj|solutionrelative:people.json||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{865DB3CB-F734-471F-8370-D5ABFD963DC3}|Hamaspik.csproj|C:\\Users\\sholo\\source\\repos\\WPF\\Hamaspik\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{865DB3CB-F734-471F-8370-D5ABFD963DC3}|Hamaspik.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{865DB3CB-F734-471F-8370-D5ABFD963DC3}|Hamaspik.csproj|C:\\Users\\sholo\\source\\repos\\WPF\\Hamaspik\\forms\\editgroupform.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{865DB3CB-F734-471F-8370-D5ABFD963DC3}|Hamaspik.csproj|solutionrelative:forms\\editgroupform.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{865DB3CB-F734-471F-8370-D5ABFD963DC3}|Hamaspik.csproj|c:\\users\\sholo\\source\\repos\\wpf\\hamaspik\\forms\\addgroupform.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{865DB3CB-F734-471F-8370-D5ABFD963DC3}|Hamaspik.csproj|solutionrelative:forms\\addgroupform.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{865DB3CB-F734-471F-8370-D5ABFD963DC3}|Hamaspik.csproj|C:\\Users\\sholo\\source\\repos\\WPF\\Hamaspik\\forms\\adduserform.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -27,20 +47,8 @@
       "RelativeMoniker": "D:0:0:{865DB3CB-F734-471F-8370-D5ABFD963DC3}|Hamaspik.csproj|solutionrelative:forms\\addgroupform.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{865DB3CB-F734-471F-8370-D5ABFD963DC3}|Hamaspik.csproj|C:\\Users\\sholo\\source\\repos\\WPF\\Hamaspik\\forms\\editgroupform.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{865DB3CB-F734-471F-8370-D5ABFD963DC3}|Hamaspik.csproj|solutionrelative:forms\\editgroupform.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{865DB3CB-F734-471F-8370-D5ABFD963DC3}|Hamaspik.csproj|C:\\Users\\sholo\\source\\repos\\WPF\\Hamaspik\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{865DB3CB-F734-471F-8370-D5ABFD963DC3}|Hamaspik.csproj|solutionrelative:app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{865DB3CB-F734-471F-8370-D5ABFD963DC3}|Hamaspik.csproj|C:\\Users\\sholo\\source\\repos\\WPF\\Hamaspik\\linqtosqlclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{865DB3CB-F734-471F-8370-D5ABFD963DC3}|Hamaspik.csproj|solutionrelative:linqtosqlclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{865DB3CB-F734-471F-8370-D5ABFD963DC3}|Hamaspik.csproj|C:\\Users\\sholo\\source\\repos\\WPF\\Hamaspik\\people.json||{3B902123-F8A7-4915-9F01-361F908088D0}",
-      "RelativeMoniker": "D:0:0:{865DB3CB-F734-471F-8370-D5ABFD963DC3}|Hamaspik.csproj|solutionrelative:people.json||{3B902123-F8A7-4915-9F01-361F908088D0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -50,24 +58,89 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 3,
               "Title": "App.xaml.cs",
               "DocumentMoniker": "C:\\Users\\sholo\\source\\repos\\WPF\\Hamaspik\\App.xaml.cs",
               "RelativeDocumentMoniker": "App.xaml.cs",
               "ToolTip": "C:\\Users\\sholo\\source\\repos\\WPF\\Hamaspik\\App.xaml.cs",
               "RelativeToolTip": "App.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAANAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAABHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-26T00:25:30.028Z",
-              "IsPinned": true
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LinqToSQLClass.dbml",
+              "DocumentMoniker": "C:\\Users\\sholo\\source\\repos\\WPF\\Hamaspik\\LinqToSQLClass.dbml",
+              "RelativeDocumentMoniker": "LinqToSQLClass.dbml",
+              "ToolTip": "C:\\Users\\sholo\\source\\repos\\WPF\\Hamaspik\\LinqToSQLClass.dbml",
+              "RelativeToolTip": "LinqToSQLClass.dbml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001722|",
+              "WhenOpened": "2025-11-26T15:46:25.223Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EditGroupForm.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\sholo\\source\\repos\\WPF\\Hamaspik\\Forms\\EditGroupForm.xaml.cs",
+              "RelativeDocumentMoniker": "Forms\\EditGroupForm.xaml.cs",
+              "ToolTip": "C:\\Users\\sholo\\source\\repos\\WPF\\Hamaspik\\Forms\\EditGroupForm.xaml.cs",
+              "RelativeToolTip": "Forms\\EditGroupForm.xaml.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABwAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T01:51:24.902Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "People.json",
+              "DocumentMoniker": "C:\\Users\\sholo\\source\\repos\\WPF\\Hamaspik\\People.json",
+              "RelativeDocumentMoniker": "People.json",
+              "ToolTip": "C:\\Users\\sholo\\source\\repos\\WPF\\Hamaspik\\People.json",
+              "RelativeToolTip": "People.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-26T00:39:04.63Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\sholo\\source\\repos\\WPF\\Hamaspik\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\sholo\\source\\repos\\WPF\\Hamaspik\\MainWindow.xaml.cs",
+              "RelativeToolTip": "MainWindow.xaml.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T00:04:35.112Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\sholo\\source\\repos\\WPF\\Hamaspik\\App.config",
+              "RelativeDocumentMoniker": "App.config",
+              "ToolTip": "C:\\Users\\sholo\\source\\repos\\WPF\\Hamaspik\\App.config",
+              "RelativeToolTip": "App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-11-26T15:17:20.192Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "MainWindow.xaml",
               "DocumentMoniker": "C:\\Users\\sholo\\source\\repos\\WPF\\Hamaspik\\MainWindow.xaml",
               "RelativeDocumentMoniker": "MainWindow.xaml",
@@ -79,33 +152,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "MainWindow.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\sholo\\source\\repos\\WPF\\Hamaspik\\MainWindow.xaml.cs",
-              "RelativeDocumentMoniker": "MainWindow.xaml.cs",
-              "ToolTip": "C:\\Users\\sholo\\source\\repos\\WPF\\Hamaspik\\MainWindow.xaml.cs",
-              "RelativeToolTip": "MainWindow.xaml.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAAHEAAAAVAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-26T00:04:35.112Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 7,
               "Title": "AddGroupForm.xaml.cs",
               "DocumentMoniker": "C:\\Users\\sholo\\source\\repos\\WPF\\Hamaspik\\Forms\\AddGroupForm.xaml.cs",
               "RelativeDocumentMoniker": "Forms\\AddGroupForm.xaml.cs",
               "ToolTip": "C:\\Users\\sholo\\source\\repos\\WPF\\Hamaspik\\Forms\\AddGroupForm.xaml.cs",
               "RelativeToolTip": "Forms\\AddGroupForm.xaml.cs",
-              "ViewState": "AgIAABIAAAAAAAAAAAAAAC0AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACUAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-26T14:41:26.245Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 8,
               "Title": "AddUserForm.xaml.cs",
               "DocumentMoniker": "C:\\Users\\sholo\\source\\repos\\WPF\\Hamaspik\\Forms\\AddUserForm.xaml.cs",
               "RelativeDocumentMoniker": "Forms\\AddUserForm.xaml.cs",
@@ -118,7 +178,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 10,
               "Title": "AddGroupForm.xaml",
               "DocumentMoniker": "C:\\Users\\sholo\\source\\repos\\WPF\\Hamaspik\\Forms\\AddGroupForm.xaml",
               "RelativeDocumentMoniker": "Forms\\AddGroupForm.xaml",
@@ -130,7 +190,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 9,
               "Title": "EditGroupForm.xaml",
               "DocumentMoniker": "C:\\Users\\sholo\\source\\repos\\WPF\\Hamaspik\\Forms\\EditGroupForm.xaml",
               "RelativeDocumentMoniker": "Forms\\EditGroupForm.xaml",
@@ -142,20 +202,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "EditGroupForm.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\sholo\\source\\repos\\WPF\\Hamaspik\\Forms\\EditGroupForm.xaml.cs",
-              "RelativeDocumentMoniker": "Forms\\EditGroupForm.xaml.cs",
-              "ToolTip": "C:\\Users\\sholo\\source\\repos\\WPF\\Hamaspik\\Forms\\EditGroupForm.xaml.cs",
-              "RelativeToolTip": "Forms\\EditGroupForm.xaml.cs",
-              "ViewState": "AgIAAEkAAAAAAAAAAAA5wF0AAABKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-26T01:51:24.902Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 11,
               "Title": "LinqToSQLClass.cs",
               "DocumentMoniker": "C:\\Users\\sholo\\source\\repos\\WPF\\Hamaspik\\LinqToSQLClass.cs",
               "RelativeDocumentMoniker": "LinqToSQLClass.cs",
@@ -163,19 +210,8 @@
               "RelativeToolTip": "LinqToSQLClass.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-26T01:18:26.486Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "People.json",
-              "DocumentMoniker": "C:\\Users\\sholo\\source\\repos\\WPF\\Hamaspik\\People.json",
-              "RelativeDocumentMoniker": "People.json",
-              "ToolTip": "C:\\Users\\sholo\\source\\repos\\WPF\\Hamaspik\\People.json",
-              "RelativeToolTip": "People.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAWAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-11-26T00:39:04.63Z"
+              "WhenOpened": "2025-11-26T01:18:26.486Z",
+              "EditorCaption": ""
             }
           ]
         }

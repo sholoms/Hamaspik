@@ -31,3 +31,6 @@ C:\Users\sholo\source\repos\WPF\Hamaspik\obj\Debug\Hamaspik.application
 C:\Users\sholo\source\repos\WPF\Hamaspik\obj\Debug\Hamaspik.csproj.Up2Date
 C:\Users\sholo\source\repos\WPF\Hamaspik\obj\Debug\Hamaspik.exe
 C:\Users\sholo\source\repos\WPF\Hamaspik\obj\Debug\Hamaspik.pdb
+C:\Users\sholo\source\repos\WPF\Hamaspik\bin\Debug\HamaspikDB.mdf
+C:\Users\sholo\source\repos\WPF\Hamaspik\obj\Debug\Hamaspik_Content.g.cs
+C:\Users\sholo\source\repos\WPF\Hamaspik\bin\Debug\HamaspikDB_log.ldf
